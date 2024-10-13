@@ -26,8 +26,6 @@ Lights, camera, code! 🎬
 
 ---
 
-And for extra flair, you could always explore resources on **JavaScript frameworks** or **MongoDB best practices** for keeping your app scalable and fast! Let me know if you'd like to dive into those.
-
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>

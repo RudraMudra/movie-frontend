@@ -3,8 +3,6 @@
     MERN Movie App | MoonFlix
 
 
-Here’s a fun version of your MovieFlix description for the README file:
-
 ---
 
 🎬 **Project: MovieFlix - The Full Stack Flick Factory** 🍿
